@@ -1,0 +1,55 @@
+h1
+{
+	font-family: Helvetica;
+	text-align: center;
+	color: #5A2687;
+	background-image: url("Tittle Banner.JPEG");
+	height: 150px; 
+	
+	
+	}
+
+h3
+{
+	font-family: Helvetica;
+	text-align: center;
+	color: #5A2687;
+}
+
+
+
+body 
+{
+	background-color: #CFAAF0;
+	font-family: Helvetica;
+}
+
+ul{
+  list-style-type: none;
+  background-color: #C397C7;
+  overflow: hidden;
+  padding: 1em;
+  text-align: right;
+}
+
+
+li{
+  display:inline;
+  text-decoration: none;
+  color:#8A498F;
+  font-size: 0.7em;
+  padding: 0.2em;
+  font-weight: bold;
+  
+  
+  
+}
+li a{
+  text-decoration: none;
+  color:#8A498F;
+  font-size: 0.7em;
+  padding: 0.2em;
+  font-weight: bold;
+  
+}
+
